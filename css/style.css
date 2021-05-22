@@ -18,3 +18,32 @@ h2 {
     /* class selector*/
     color: crimson;
 }
+
+a {
+    font-size: 213px;
+}
+
+a:focus {
+    color: lightcoral;
+}
+
+a:link {
+    color: lightskyblue;
+}
+
+a:visited {
+    color: maroon;
+}
+
+a:hover {
+    color: midnightblue;
+}
+
+a:active {
+    color: tomato;
+}
+
+a::after {
+    content: none;
+    background-color: tomato;
+}

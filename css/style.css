@@ -1,5 +1,6 @@
 h1 {
     color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 h2 {
@@ -8,7 +9,9 @@ h2 {
 
 #text {
     /* id selector*/
-    color: chartreuse;
+    color: darkblue;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
 }
 
 .text2 {

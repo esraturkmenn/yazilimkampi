@@ -1,0 +1,79 @@
+.arkaplan{
+    background-color: blueviolet;
+}
+.beyazkisim {
+    width: 90%;
+    height: 90%;
+    border-radius: 10px;
+    border-color: white;
+    background-color: white;
+    padding: 50px;
+}
+.input{
+    border: 10px;
+    border-width: 5px;
+    border-color: #93C1F9;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    font-size: 24px;
+}
+.input:focus{
+    border-color: #93C1F9;
+    border-width: 5px;
+    border-style: solid;
+    padding: 10px;
+    width: 100%;
+    outline: 0;
+}
+
+.baslik{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Raleway', sans-serif;
+}
+.input2{
+    height: 140px;
+    border: 10px;
+    border-width: 5px;
+    border-color: #93C1F9;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100%;
+    font-size: 24px;
+}
+
+.div{
+    margin: 20px;
+}
+.form{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+}
+
+.sorulardiv {
+    margin-left: 100px
+}
+
+.button{
+    width: 50%;
+    height: 50px;
+    color: white;
+    font-size: 24px;
+    font-family: 'Raleway', sans-serif;
+    background-color: #93C1F9;
+    border-width: 2px;
+    border-color: #93C1F9;
+    border-radius: 10px;
+    outline: 0;
+    justify-content: center;
+    align-items: center;
+}

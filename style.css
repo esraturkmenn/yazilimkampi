@@ -1,0 +1,16 @@
+.bg{
+    background-color: blueviolet;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.form-control {
+    border: 10px;
+    border-width: 5px;
+    border-color: #93C1F9;
+    border-style: solid;
+    border-radius: 5px;
+}

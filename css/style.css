@@ -1,0 +1,49 @@
+h1 {
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h2 {
+    color: cadetblue;
+}
+
+#text {
+    /* id selector*/
+    color: darkblue;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+}
+
+.text2 {
+    /* class selector*/
+    color: crimson;
+}
+
+a {
+    font-size: 213px;
+}
+
+a:focus {
+    color: lightcoral;
+}
+
+a:link {
+    color: lightskyblue;
+}
+
+a:visited {
+    color: maroon;
+}
+
+a:hover {
+    color: midnightblue;
+}
+
+a:active {
+    color: tomato;
+}
+
+a::after {
+    content: none;
+    background-color: tomato;
+}
